@@ -35,8 +35,8 @@ def save_user_data(data):
 # Load initial user data
 user_data = load_user_data()
 
-OWNER_ID = 5568478295  # Replace with your actual Telegram user ID
-OWNER_NAME = "ANKUR"  # Replace with your actual name
+OWNER_ID = 5215068698  # Replace with your actual Telegram user ID
+OWNER_NAME = "會DARK中SAHDOW"  # Replace with your actual name
 
 # Function to run the attack command synchronously
 def run_attack_command_sync(user_id, target_ip, target_port, action):
